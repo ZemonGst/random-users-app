@@ -74,7 +74,3 @@ src/
 ## 🎨 Design Philosophy
 
 The project prioritizes **Visual Excellence**. By moving away from browser defaults and generic colors, we use a curated palette (`#6366f1` Indigo) and premium typography (`Outfit` for headings, `Inter` for body) to create a professional feel.
-
----
-
-Built with ❤️ by Antigravity
